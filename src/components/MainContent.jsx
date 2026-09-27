@@ -1,16 +1,24 @@
 export function MainContent() {
   return (
     <main>
-      <h1>Reason I am excited to learn React</h1>
-      <ol>
+      <h1>Fun Facts about React</h1>
+      <ul>
         <li>
-          React is a popular library, so I will be able to fit in with all the
-          coolest devs out there! 😎
+          Was fisrt released in 2013
         </li>
         <li>
-          I am more likely to get a job as a front end developer if I know React
+          Was originally created by Jordan Walke
         </li>
-      </ol>
+        <li>
+            Has well over 200k stars on GitHub
+        </li>
+        <li>
+            Is maintained by Meta
+        </li>
+        <li>
+            Powers thousands of enterprise apps, including mobile apps
+        </li>
+      </ul>
     </main>
   );
 }

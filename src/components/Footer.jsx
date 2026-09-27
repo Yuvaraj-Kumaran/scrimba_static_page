@@ -1,7 +1,7 @@
 export function Footer() {
   return (
     <footer>
-      <small>© 2024 Ziroll development. All rights reserved.</small>
+      <small>© 2026 Yuvaraj development. All rights reserved.</small>
     </footer>
   );
 }
